@@ -1,0 +1,14 @@
+C:\Users\babya\source\repos\PracticasProgramacion\bin\Debug\net6.0\PracticasProgramacion.exe
+C:\Users\babya\source\repos\PracticasProgramacion\bin\Debug\net6.0\PracticasProgramacion.deps.json
+C:\Users\babya\source\repos\PracticasProgramacion\bin\Debug\net6.0\PracticasProgramacion.runtimeconfig.json
+C:\Users\babya\source\repos\PracticasProgramacion\bin\Debug\net6.0\PracticasProgramacion.dll
+C:\Users\babya\source\repos\PracticasProgramacion\bin\Debug\net6.0\PracticasProgramacion.pdb
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\PracticasProgramacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\PracticasProgramacion.AssemblyInfoInputs.cache
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\PracticasProgramacion.AssemblyInfo.cs
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\PracticasProgramacion.csproj.CoreCompileInputs.cache
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\PracticasProgramacion.dll
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\refint\PracticasProgramacion.dll
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\PracticasProgramacion.pdb
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\PracticasProgramacion.genruntimeconfig.cache
+C:\Users\babya\source\repos\PracticasProgramacion\obj\Debug\net6.0\ref\PracticasProgramacion.dll
